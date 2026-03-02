@@ -1,0 +1,20 @@
+Create a professional Streamlit dashboard application in Python for NovaRetail, a nationwide omnichannel retail company. The dataset provided is NR_dataset.xlsx and contains customer transaction data including customer segment (Promising, Growth, Stable, Decline), region, product category, retail channel, transaction date, revenue (PurchaseAmount), and customer satisfaction score.
+The dashboard must:
+Include interactive sidebar filters for customer segment, region, product category, and retail channel.
+Display key performance indicators (KPIs) including:
+Total Revenue
+Average Revenue per Customer
+Total Customers
+Percentage of Decline Customers
+Average Customer Satisfaction
+Include visualizations such as:
+Revenue by Customer Segment
+Revenue by Region
+Revenue by Product Category
+Revenue by Retail Channel
+Monthly Revenue Trend over time (using transaction date)
+Use pandas for data manipulation and plotly for interactive visualizations.
+Be structured as a single app.py file.
+Be deployable on GitHub and Streamlit Cloud.
+Include proper formatting and a professional executive-ready layout.
+Provide the complete Python code for app.py and list required dependencies for requirements.txt.
